@@ -10,4 +10,6 @@
 
 ## 社团势
 
-* [Overidea](she-tuan-shi/overidea.md)
+* [Overidea](she-tuan-shi/overidea/README.md)
+  * [Overidea前身-KikaiProject](she-tuan-shi/overidea/overidea-qian-shen-kikaiproject.md)
+* [Page 1](she-tuan-shi/page-1.md)
