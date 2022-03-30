@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ## 介绍
 
@@ -6,12 +5,10 @@
 
 ## 社团势
 
-* - [Overidea]
-    - [Overidea](社团势/Overidea.md)
+- [Overidea]()
+    - [Overidea](社团势/Overidea/Overidea.md)
 
-* - [虚研社]
-=======
-# Table of contents
 
-* [Page 1](README.md)
->>>>>>> d117bf2ff359c5c86f8560f992843348cf0db6ea
+
+## 项目介绍
+ - [项目介绍](README.md)
