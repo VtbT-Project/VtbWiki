@@ -1,4 +1,8 @@
 {
+    "scripts": {
+        "build": "gitbook build ./content ./docs"
+    },
+
     "plugins": [
       "flexible-alerts",
       "summary",
