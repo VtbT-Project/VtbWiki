@@ -1,0 +1,53 @@
+{
+    "plugins": [
+      "flexible-alerts",
+      "summary",
+      "insert-logo",
+      "-lunr", 
+      "-search", 
+      "search-pro",
+      "advanced-emoji",
+      "github",
+      "emphasize",
+      "splitter",
+      "-sharing",
+      "sharing-plus"
+    ],
+    "pluginsConfig": {
+      "flexible-alerts": {
+        "note": {
+          "label": "Hinweis"
+        },
+        "tip": {
+          "label": "Tipp"
+        },
+        "warning": {
+          "label": "Warnung"
+        },
+        "danger": {
+          "label": "Achtung"
+        }
+      },
+      "insert-logo": {
+          "url": "/images/facicon.ico",
+          "style": "background: none; max-height: 30px; min-height: 30px"
+      },
+      "github": {
+          "url": "https://github.com/zhangjikai"
+      },
+      "sharing": {
+        "douban": false,
+        "facebook": false,
+        "google": true,
+        "pocket": false,
+        "qq": false,
+        "qzone": true,
+        "twitter": false,
+        "weibo": true,
+     "all": [
+          "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+          "messenger","qq", "qzone","viber","whatsapp"
+        ]
+      }
+    } 
+}
