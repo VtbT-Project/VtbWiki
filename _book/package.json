@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "gitbook init && gitbook build ./ ./docs",
+        "serve": "gitbook serve"
+    }
+}
