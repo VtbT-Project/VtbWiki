@@ -5,9 +5,8 @@
 1. [注册Github](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#zhu-ce-github)
 2. [从项目中fork分支](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#cong-xiang-mu-zhong-fork-yi-ge-fen-zhi)
 3. [fork分支绑定gitbook](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#fork-fen-zhi-bang-ding-gitbook)
-4. [发布fork](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#fa-bu-fork)
-
-
+4. [编写文档](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#undefined)
+5. [发布fork](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#fa-bu-fork)
 
 #### 注册Github
 
@@ -20,8 +19,6 @@
 ![源站项目截图](https://file.pakbi.com/images/wiki/55\(S\_M\)6E1IJ\[\)RC8VLHWGP.png)
 
 点击fork可以以源站当前更新作为模板复制到用户仓库中。
-
-![用户fork仓库截图](../.gitbook/assets/I\(9C2V\`LB$O@\)UBD%D2K0OV.png)
 
 {% hint style="warning" %}
 注意：每次更新前应当更新用户仓库的文档，更新方法为点击Fetch upstream即可更新最新版本。
@@ -41,7 +38,7 @@
 
 * 点击Sync with Git，绑定你的github账号和仓库并从仓库中获取最新版本wiki
 
-![ 绑定Github](https://file.pakbi.com/images/wiki/4.png)
+![绑定Github](https://file.pakbi.com/images/wiki/4.png)
 
 ![绑定仓库](https://file.pakbi.com/images/wiki/5.png)
 
@@ -77,7 +74,19 @@
 
 到此，稳定获取就已经完成了。
 
+#### 如何编写文档
+
+在你获取文档后，点击EDIT即可编辑
+
+GItbook使用的是Markdown语法，也有npm版本（但年久失修不推荐使用）
+
+我们强烈推荐你使用GitbookWeb进行编辑文档的操作，它更方便上手。
+
+在你编写完毕后点击merge即可发布到你的github仓库内！
+
 #### 发布fork
+
+待定123123123123
 
 
 
