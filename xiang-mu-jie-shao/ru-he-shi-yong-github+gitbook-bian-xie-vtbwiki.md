@@ -5,7 +5,7 @@
 1. [注册Github](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#zhu-ce-github)
 2. [从项目中fork分支](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#cong-xiang-mu-zhong-fork-yi-ge-fen-zhi)
 3. [fork分支绑定gitbook](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#fork-fen-zhi-bang-ding-gitbook)
-4. [编写文档](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#undefined)
+4. [编写文档](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#ru-he-bian-xie-wen-dang)
 5. [发布fork](ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md#fa-bu-fork)
 
 #### 注册Github
@@ -87,8 +87,6 @@ GItbook使用的是Markdown语法，也有npm版本（但年久失修不推荐�
 #### 发布fork
 
 待定123123123123
-
-
 
 #### 文档更新
 
