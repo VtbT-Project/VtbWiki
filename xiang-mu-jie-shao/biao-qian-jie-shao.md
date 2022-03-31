@@ -16,9 +16,11 @@
 该标签可作为本人是否进行视察提醒（应该没人会视察吧）
 {% endhint %}
 
-## H1级标签只能作为wiki名作为使用 <a href="#wikitag" id="wikitag"></a>
+## H1级标签只能作为wiki主题为使用 <a href="#wikitag" id="wikitag"></a>
 
-#### H3级标签只能作为二级标签使用
+### H2标签只能作为二级主题使用
+
+#### H3级标签只能作为子级标签使用
 
 文本标签可直接输入、但只能作为内容编写使用
 
@@ -30,4 +32,6 @@
    1. [这是一个目录](biao-qian-jie-shao.md#h1-ji-biao-qian-zhi-neng-zuo-wei-wiki-ming-zuo-wei-shi-yong)1
    2. [H3](biao-qian-jie-shao.md#h3-ji-biao-qian-zhi-neng-zuo-wei-er-ji-biao-qian-shi-yong)
 4. 结束
-5. 目录可使用Link进行H1、H3级标签绑定
+5. 目录可使用Link进行H1、H2、H3级标签绑定
+6. 如果你懒得化可以不写，系统会自动生成目录
+7. 图片插入我们建议你自行使用图床功能
