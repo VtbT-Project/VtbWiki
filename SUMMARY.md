@@ -4,6 +4,7 @@
 
 * [项目介绍](README.md)
 * [标签介绍](xiang-mu-jie-shao/biao-qian-jie-shao.md)
+* [如何使用GitHub+Gitbook编写Vtbwiki](xiang-mu-jie-shao/ru-he-shi-yong-github+gitbook-bian-xie-vtbwiki.md)
 
 ## 介绍
 
