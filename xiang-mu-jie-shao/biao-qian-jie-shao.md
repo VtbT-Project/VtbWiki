@@ -24,8 +24,10 @@
 
 对于其他标签本wiki暂无要求，用户可自行排版使用
 
-1. 无须列表可作为目录使用
+1. 有序或无须列表可作为目录使用\[强烈推荐有序列表]
 2. 就比如这样
 3. 这是目录
-   1. 这是一个目录
+   1. [这是一个目录](biao-qian-jie-shao.md#h1-ji-biao-qian-zhi-neng-zuo-wei-wiki-ming-zuo-wei-shi-yong)1
+   2. [H3](biao-qian-jie-shao.md#h3-ji-biao-qian-zhi-neng-zuo-wei-er-ji-biao-qian-shi-yong)
 4. 结束
+5. 目录可使用Link进行H1、H3级标签绑定
